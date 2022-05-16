@@ -6,6 +6,9 @@ public class Main {
         System.out.println("gggg");
         System.out.println("i am correct");
         System.out.println("hh");
+        //hello
+        //hellp i am
+        System.out.println("ooo");
     }
 
 
